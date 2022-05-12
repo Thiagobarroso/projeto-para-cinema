@@ -1,0 +1,23 @@
+* {
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.cidades a {
+    color: green;
+    text-decoration: none;
+  
+}
+
+.hoje {
+    color:darkred
+}
+
+.amanha {
+    color: darkblue;
+}
+
